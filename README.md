@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN E-COMMERCE
 
 Hi! My name is **Vaibhav Mishra**, I have created this app to learn MERN Stack.
 
