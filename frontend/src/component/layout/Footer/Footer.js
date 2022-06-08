@@ -17,7 +17,7 @@ const Footer = () => {
         <h1>Closet Clearance.</h1>
         <p>High Quality is our first priority</p>
 
-        <p>Copyrights 2021 &copy; MeAbhiSingh</p>
+        <p>Copyrights 2021 &copy; Closet Clerance</p>
       </div>
 
       <div className="rightFooter">
